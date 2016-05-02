@@ -1,0 +1,19 @@
+#Key To do's#
+[x] - Create sections (Sizes, colors, etc.)
+[x] - Have a functioning 'Navbar' that is fixed as the page scrolls.
+[] - Every feature added is working!
+
+#Design#
+[] - Design the Intro Section
+	+Notes:
+
+[] - Design the About Section
+	+Notes:
+
+[] - Design the Portfolio Section
+	+Notes:
+
+[] - Design the Contact Section
+	+Notes:
+
+#Secondary Additions (Not Goals)#
