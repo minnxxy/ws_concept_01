@@ -1,19 +1,33 @@
-#Key To do's#
+# Key Points #
 [x] - Create sections (Sizes, colors, etc.)
 [x] - Have a functioning 'Navbar' that is fixed as the page scrolls.
-[] - Every feature added is working!
+[] - Improve overall readability of ALL sections.
+?? Add transitions on elements to improve the overall look and feel of the site itself.
+??? Add emailing function as well as a search feature?
 
-#Design#
+# Design #
 [] - Design the Intro Section
 	+Notes:
-
+	Assigned To: Alex
+	Start/End Date:
+	
 [] - Design the About Section
 	+Notes:
-
+	Assigned To: Prosper
+	Start/End Date:
+	
 [] - Design the Portfolio Section
 	+Notes:
-
+	Assigned To: Alex
+	Start/End Date:
+	
 [] - Design the Contact Section
 	+Notes:
-
+	Assigned To: Prosper
+	Start/End Date:
+	
 #Secondary Additions (Not Goals)#
+—May, 2nd
+	+ Added a smooth transition of the Header Image's size when the Navbar collapses. (See: scrolling-nav.js, lines 5 and 8. As well as mainstyle.css lines 41 and 63.)
+	- Removed original Navbar color (#454647)
+	+ Replaced Navbar color with (#191516)
