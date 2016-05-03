@@ -6,28 +6,32 @@
 ??? Add emailing function as well as a search feature?
 
 # Design #
-[] - Design the Intro Section
-	+Notes:
+[x] - Design the Intro Section
+	+Comments: "Rather clean and modern. Changes my happen in the future." -Alex
 	Assigned To: Alex
-	Start/End Date:
+	Start/End Date: May 2nd, 11:42pm / May 3rd, 1:21am
 	
 [] - Design the About Section
-	+Notes:
+	+Comments:
 	Assigned To: Prosper
 	Start/End Date:
 	
 [] - Design the Portfolio Section
-	+Notes:
+	+Comments:
 	Assigned To: Alex
 	Start/End Date:
 	
 [] - Design the Contact Section
-	+Notes:
+	+Comments:
 	Assigned To: Prosper
 	Start/End Date:
 	
 #Secondary Additions (Not Goals)#
-—May, 2nd
+—May, 2nd 11:00PM
 	+ Added a smooth transition of the Header Image's size when the Navbar collapses. (See: scrolling-nav.js, lines 5 and 8. As well as mainstyle.css lines 41 and 63.)
 	- Removed original Navbar color (#454647)
 	+ Replaced Navbar color with (#191516)
+—May, 3rd 1:21AM
+	+ "intro-section-img" was given a nice bounce when the page is first loaded.
+	- Remove the expanding effect when you hovered over "intro-section-img".
+	> Finished "Intro Section's" main design.
