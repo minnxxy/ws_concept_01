@@ -1,4 +1,4 @@
-# Key Points #
+﻿# Key Points #
 [x] - Create sections (Sizes, colors, etc.)
 [x] - Have a functioning 'Navbar' that is fixed as the page scrolls.
 [] - Improve overall readability of ALL sections.
@@ -16,10 +16,10 @@
 	Assigned To: Prosper
 	Start/End Date:
 	
-[] - Design the Portfolio Section
-	+Comments:
+[x] - Design the Portfolio Section
+	+Comments: "Again—clean and simple. Easy to read and use." -Alex
 	Assigned To: Alex
-	Start/End Date:
+	Start/End Date: May 5th 4:00pm / May 6th 2:00am
 	
 [] - Design the Contact Section
 	+Comments:
@@ -34,4 +34,8 @@
 —May, 3rd 1:21AM
 	+ "intro-section-img" was given a nice bounce when the page is first loaded.
 	- Remove the expanding effect when you hovered over "intro-section-img".
-	> Finished "Intro Section's" main design.
+	> Finished "Intro Section" design.
+-May, 6th 2:00AM
+	> Finished "Portfolio Section" design.
+	+ Fades over image hovers
+	+ Images for each language I would learn.
