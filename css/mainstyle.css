@@ -168,4 +168,23 @@ td {
   60% { transform: scale(0.6); opacity: 1 }
   80% { transform: scale(0.95) }
   100% { transform: scale(0.85) }
+<<<<<<< HEAD
 }
+=======
+}
+
+.footer-above {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footer-below {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #191516;
+}
+
+.footer-above, .footer-below p {
+    color: white;
+}
+>>>>>>> 0499e0aeefae30dd56d6a190ef280bdb33f46d91
